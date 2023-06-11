@@ -11,3 +11,4 @@ Template: index
 
 - [Technik Audio](./hybrid-meeting/tech-audio)
 - [Technik Video](./hybrid-meeting/tech-video)
+- [Zoom](./hybrid-meeting/zoom)
