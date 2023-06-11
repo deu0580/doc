@@ -18,28 +18,29 @@ INFO: Die Fader sind von Links nach Rechts angeordnet, wie die Mikrofone auf der
 
 - alle Fader auf -ထ
 - alle Pre-Fader-Listener (PFL) deaktivieren
-- alle Mute deaktivieren (Lampe aus)
+- alle Mute deaktivieren
 - Hauptschalter "Audio" einschalten
 
 ### Mikrofon check
 
 - Bühnen-Mikrofone auf Funktion prüfen: 
-  - PFL beim gewünschten Mikrofon einschalten
-  - schauen ob Auschlag bei der Pegelanzeige erscheint (Meist sind die Gespräche laut genug. Wenn niemand im Saal ist in die Hände klaschen)
+  - PFL beim gewünschten Fader einschalten
+  - jemand bitten ins Mikrofon zu sprechen
+  - schauen ob Auschlag bei der Pegelanzeige erscheint
   - PFL wieder deaktivieren
 - Funk-Mikrofone auf Funktion prüfen:
   - Funkmikrofon einschalten
   - Akku-Stand prüfen. Alle drei Balken vorhanden?
-  - Master auf 0 stellen
-  - während ins Mikrofon gesprochen wird den Funk-Mikrofon Fader auf 0 regeln (Bitte sprechen, nicht drauf klopfen.)
-  - prüfen ob Ton über Lautsprecher kommt
-  - alle Fader wieder auf -ထ db regeln
+  - PFL beim gewünschten Fader einschalten
+  - ins Mikrofon zu sprechen
+  - schauen ob Auschlag bei der Pegelanzeige erscheint
+  - PFL wieder deaktivieren
 
 ### PC Ton check
 
 - Lied Wiedergabe auf PC starten
 - Master Fader auf 0 regeln
-- PC Fader auf 0 db regeln
+- PC Fader langsam auf 0 db regeln
 - prüfen ob Ton über Lautsprecher kommt
 - Lied Wiedergabe auf PC beenden
 - PC Fader auf -ထ db regeln
@@ -47,26 +48,28 @@ INFO: Die Fader sind von Links nach Rechts angeordnet, wie die Mikrofone auf der
 ### Zoom Ton check
 
 - Wiedergabe von Zoom testen
-  - mit Video-Technik zusammenarbeiten
-  - Master Fader auf 0 regeln
-  - Zoom Fader auf -20 db regeln
-  - während jemand in Zoom spricht, PC Fader langsam hochregeln
-  - prüfen ob Ton über Lautsprecher kommt
-  - Zoom Fader auf -ထ db regeln
+  - PFL beim gewünschten Fader einschalten
+  - jemand in Zoom bitten zu sprechen
+  - schauen ob Auschlag bei der Pegelanzeige erscheint
 - Einspielen nach Zoom testen
   - Funkmikrofon einschalten
-  - während ins Mikrofon gesprochen wird den Funk-Mikrofon Fader auf 0 regeln (Bitte sprechen, nicht drauf klopfen.)
+  - während ins Mikrofon gesprochen wird den Funk-Mikrofon Fader auf 0 regeln  
+    (Bitte sprechen, nicht drauf klopfen.)
   - prüfen ob Ton in Zoom kommt
   - alle Fader wieder auf -ထ db regeln
   - INFO: Der Ton für Zoom wird durch den Master Fader nicht beeinflusst.
 
 ### Bühnendienst
 
-Prüfen ob der eingeteilte Bühnendienst anwesend und über seine Zuteilung informiert ist. Gegebenenfalls Ersatz suchen. 
+Prüfen ob der eingeteilte Bühnendienst anwesend
+und über seine Zuteilung informiert ist. 
+Gegebenenfalls Ersatz suchen. 
 
 ### Mikrofonträger
 
-Prüfen pb die eingeteilten Mikrofonträger anwesend und über Ihre Zuteilung informiert sind. Gegebenenfalls Ersatz suchen. 
+Prüfen pb die eingeteilten Mikrofonträger anwesend
+und über Ihre Zuteilung informiert sind. 
+Gegebenenfalls Ersatz suchen. 
 
 ## Während Versammlung
 
@@ -77,7 +80,8 @@ Prüfen pb die eingeteilten Mikrofonträger anwesend und über Ihre Zuteilung in
   - Sprecher Fader auf -20 db regeln
 - Sprecher regeln
   - Sprecher Fader von -20 db auf -10 db regeln
-  - während Sprecher spricht, Fader so lange hochregeln, bis etwa gleichlaut ist wie die anderen Tonwiedergaben
+  - während Sprecher spricht, Fader so lange hochregeln,
+    bis etwa gleichlaut ist wie die anderen Tonwiedergaben
   - anschließend Fader wieder auf -20 db regeln
 
 ### PC Wiedergabe
@@ -87,14 +91,15 @@ Prüfen pb die eingeteilten Mikrofonträger anwesend und über Ihre Zuteilung in
   - PC Fader auf -20 db regeln
 - Wiedergabe
   - PC Fader auf 0 db regeln
-  - Master Fader hochregeln wenn nötig. Bei Lieder bis zu +10 db. Bei anderen Videos meist 0 db lassen.
+  - Bei Liedern die Master Fader bis zu +10 db hochregeln.
 
 ## Nach Versammlung
 
 ### Funkmikrofone
 
 - Griffe mit Desinfekt-Tüchern abwischen
-- Mikrofon, mit dem Display nach oben, in die Ladeschale schieben. Dabei schalten sie sich selbst aus.
+- Mikrofon, mit dem Display nach oben, in die Ladeschale schieben.
+  Dabei schaltet sich das Mikrofon selbst aus.
 - Mikrofonstangen mit Desinfekt-Tüchern abwischen
 
 ## Audio-System Ausschalten
